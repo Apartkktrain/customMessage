@@ -1,0 +1,2 @@
+# customMessage
+Customize server messages.
